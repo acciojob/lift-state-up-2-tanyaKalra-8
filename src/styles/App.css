@@ -1,1 +1,14 @@
-
+.parent{
+    background-color: greenyellow;
+    height: 250px;
+    width: 500px;
+}
+h1{
+    margin-left: 14px;
+}
+.child{
+    background-color: #c95b1b;
+    height: 150px;
+    width: 470px;
+    margin-left: 13px;
+}
